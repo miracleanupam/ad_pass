@@ -1,16 +1,18 @@
 # ad_pass
 
-A new Flutter project.
+Password Manager created with Flutter. Works on Android. Needs changes in Runner file for IOS(I didn't have an IOS so, I didn't even bother with IOS).
 
-## Getting Started
+This project was made for personal use and learning purpose.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Totally Offline
+- Store as many passwords as you want or until your memory runs out
+- Cannot be screenshot-ed
+- Changing device? Export from old device and Import on the new one.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Disclaimer
+
+
+Use this at your own risk. I won't be held responsible for any liability, loss of data or any other consequences.
